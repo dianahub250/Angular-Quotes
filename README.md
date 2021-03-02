@@ -16,7 +16,7 @@ CSS
 Javascript
 Typescript
 ## Github Pages link
-You can view the live application by following this link 
+You can view the live application by following this link https://dianahub250.github.io/Angular-Quotes/.
 
 ## Contact information
 niyongoga@gmail.com
