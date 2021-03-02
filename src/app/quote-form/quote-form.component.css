@@ -1,0 +1,8 @@
+.container-fluid{
+    background: linear-gradient(45deg, rgba(85, 122, 71), rgba(162, 180, 79, 0.4) 100%);
+    padding-top: 20px;
+    border-radius: 20px;
+}
+h2{
+    font-weight: bold;
+}

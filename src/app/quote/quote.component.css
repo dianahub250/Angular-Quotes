@@ -1,0 +1,22 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    background: linear-gradient(45deg, rgba(119, 177, 92, 0.4), rgba(162, 180, 79, 0.4) 100%);
+}
+.container-fluid{
+    height: 150px;
+    border-radius: 20px;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    padding-top: 25px;
+}
+.row{
+    margin-top: 50px;
+}
+li{
+    padding-top: 20px;
+    font-size: 20px;
+}
