@@ -16,7 +16,7 @@ CSS
 Javascript
 Typescript
 ## Github Pages link
-You can view the live application by following this link https://benitha250.github.io/angularQuote/
+You can view the live application by following this link 
 
 ## Contact information
 niyongoga@gmail.com
